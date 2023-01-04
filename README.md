@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Dilusha Madushan</h1>
+<h3 align="center">A passionate machine learning engineer</h3>
 
-<!--
-**dilusha-cmlinsight/dilusha-cmlinsight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilusha-cmlinsight&label=Profile%20views&color=0e75b6&style=flat" alt="dilusha-cmlinsight" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [CML Insight](https://cmlinsight.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **machine learning with full stack developing**
+
+- 📫 How to reach me **dilusha.madhushan@cmlinsight.com**
+
+- ⚡ Fun fact **When I was young, I wanted to be a Engineer in IT field because then I can work with my computer in all the time 😅.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://linkedin.com/in/dilusha%20madushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/dilusha%20madushan" height="30" width="40" /></a>
+</p>
+
